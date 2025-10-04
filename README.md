@@ -1,28 +1,29 @@
-## Studenten-en-Cijfers
+## Student Grade Analyzer
 
-**Studenten-en-Cijfers** is een interactieve command-line applicatie waarmee je eenvoudig studenten en hun cijfers kunt beheren.
+**Student Grade Analyzer** is een educatieve en interactieve command-line applicatie geschreven in Python.
+Met deze applicatie kun je eenvoudig studenten beheren, cijfers bekijken, nieuwe gegevens toevoegen en statistieken berekenen over hun resultaten.
 
-De applicatie is gebouwd als oefening in het werken met lijsten, tuples, loops en conditionele logica in Python.
+### Functies
 
-Met deze applicatie kun je:
+Met Student Grade Analyzer kun je:
 
-* Alle studenten met hun cijfers bekijken
-* De student met het hoogste cijfer opzoeken
+* Alle studenten en hun cijfers bekijken
+* De student met het hoogste cijfer vinden
 * Zoeken naar een specifieke student
-* Zelf een nieuwe student met cijfer toevoegen
+* Nieuwe studenten en cijfers toevoegen
 * Het gemiddelde cijfer berekenen
 * Cijfers sorteren van hoog naar laag
-* De applicatie afsluiten via een keuzemenu
+* De applicatie interactief bedienen via een tekstmenu
 
-### Gebruikte concepten
+### Gebruikte libraries
 
-* **Lijsten** en **tuples** om data op te slaan
-* **For-loops** en **while-loops** voor het menu en de logica
-* **Conditionele statements** (`if`, `elif`, `else`) voor gebruikerskeuzes
-* **Lijstmethodes** zoals `.append()`, `.index()` en `sorted()`
-* **Input/output-functionaliteit** voor interactie met de gebruiker
+* **Geen externe libraries** – alles is gebouwd met standaard Python-functies zoals `max()`, `sorted()` en lijsten.
 
 ### Over dit project
 
-Deze applicatie is in één dag gebouwd als oefening binnen de module *Programming Fundamentals* bij NOVI Hogeschool.
-Het doel van de opdracht was om zelfstandig een menu-gestuurde Python-app te bouwen die gebruikmaakt van lijsten, loops en conditionele logica.
+Student Grade Analyzer is ontwikkeld als oefenproject binnen de module *Programming Fundamentals* bij NOVI Hogeschool.
+Het project demonstreert basisvaardigheden in Python, zoals werken met lijsten, loops, functies en gebruikersinvoer in een interactieve CLI.
+
+### English summary
+
+*Student Grade Analyzer is an educational Python CLI app that allows users to view, add, and analyze student grades using lists and simple control structures. It demonstrates core programming concepts like iteration, conditionals, and user input handling.*
