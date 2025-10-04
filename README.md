@@ -3,32 +3,19 @@ Studenten en Cijfers App
 Over dit project
 Deze applicatie heb ik in één dag gebouwd als onderdeel van de les over lijsten, tuples en for-loops. Het is een simpel menu waarmee je studenten en hun cijfers kunt beheren.
 
-Je kunt o.a.:
-
-Alle studenten met hun cijfers bekijken
-
-De student met het hoogste cijfer opzoeken
-
-Zoeken naar een specifieke student
-
-Zelf een student + cijfer toevoegen
-
-Het gemiddelde cijfer berekenen
-
-Cijfers sorteren van hoog naar laag
+# Je kunt o.a.:
+- Alle studenten met hun cijfers bekijken
+- De student met het hoogste cijfer opzoeken
+- Zoeken naar een specifieke student
+- Zelf een student + cijfer toevoegen
+- Het gemiddelde cijfer berekenen
+- Cijfers sorteren van hoog naar laag
 
 Ik heb geprobeerd zoveel mogelijk van de lesstof toe te passen, zoals werken met lijsten, loops en if-else logica.
 
-Wat ik heb gebruikt
+# Wat ik heb gebruikt
 In deze opdracht heb ik o.a. gebruik gemaakt van:
-
-Lijsten en tuples om data op te slaan
-
-For- en while-loops om het menu en de logica te laten werken
-
-Lijstmethodes zoals .append(), .index(), .sort()
-
-Conditionele statements (if, elif, else) voor gebruikerskeuzes
-
-Even persoonlijk
-Ik vind het jammer dat ik de les steeds moet terugkijken in Teams in plaats van live mee te doen. Op woensdag werk ik namelijk de hele dag, dus ik kan er dan helaas niet bij zijn. Ik doe wel mijn best om het zelfstandig bij te houden en de opdrachten goed uit te werken.
+- Lijsten en tuples om data op te slaan
+- For- en while-loops om het menu en de logica te laten werken
+- Lijstmethodes zoals .append(), .index(), .sort()
+- Conditionele statements (if, elif, else) voor gebruikerskeuzes
