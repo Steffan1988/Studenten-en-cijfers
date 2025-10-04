@@ -1,21 +1,28 @@
-﻿# Studenten-en-cijfers
-Studenten en Cijfers App
-Over dit project
-Deze applicatie heb ik in één dag gebouwd als onderdeel van de les over lijsten, tuples en for-loops. Het is een simpel menu waarmee je studenten en hun cijfers kunt beheren.
+## Studenten-en-Cijfers
 
-# Je kunt o.a.:
-- Alle studenten met hun cijfers bekijken
-- De student met het hoogste cijfer opzoeken
-- Zoeken naar een specifieke student
-- Zelf een student + cijfer toevoegen
-- Het gemiddelde cijfer berekenen
-- Cijfers sorteren van hoog naar laag
+**Studenten-en-Cijfers** is een interactieve command-line applicatie waarmee je eenvoudig studenten en hun cijfers kunt beheren.
 
-Ik heb geprobeerd zoveel mogelijk van de lesstof toe te passen, zoals werken met lijsten, loops en if-else logica.
+De applicatie is gebouwd als oefening in het werken met lijsten, tuples, loops en conditionele logica in Python.
 
-# Wat ik heb gebruikt
-In deze opdracht heb ik o.a. gebruik gemaakt van:
-- Lijsten en tuples om data op te slaan
-- For- en while-loops om het menu en de logica te laten werken
-- Lijstmethodes zoals .append(), .index(), .sort()
-- Conditionele statements (if, elif, else) voor gebruikerskeuzes
+Met deze applicatie kun je:
+
+* Alle studenten met hun cijfers bekijken
+* De student met het hoogste cijfer opzoeken
+* Zoeken naar een specifieke student
+* Zelf een nieuwe student met cijfer toevoegen
+* Het gemiddelde cijfer berekenen
+* Cijfers sorteren van hoog naar laag
+* De applicatie afsluiten via een keuzemenu
+
+### Gebruikte concepten
+
+* **Lijsten** en **tuples** om data op te slaan
+* **For-loops** en **while-loops** voor het menu en de logica
+* **Conditionele statements** (`if`, `elif`, `else`) voor gebruikerskeuzes
+* **Lijstmethodes** zoals `.append()`, `.index()` en `sorted()`
+* **Input/output-functionaliteit** voor interactie met de gebruiker
+
+### Over dit project
+
+Deze applicatie is in één dag gebouwd als oefening binnen de module *Programming Fundamentals* bij NOVI Hogeschool.
+Het doel van de opdracht was om zelfstandig een menu-gestuurde Python-app te bouwen die gebruikmaakt van lijsten, loops en conditionele logica.
